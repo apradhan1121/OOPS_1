@@ -5,7 +5,7 @@ This Project is Based on Real Time Application of Object Oriented Programming us
 This Project focuses on how a Real Time Project is sequentially executed.
 This Project has been constructed in keeping the view of all the Pillars of OOPS using Python.
 ## Car Rental Owner :
-- Issue a Receipt bill when customer decides to return the bike with dynamically calculated  Rental Period.  
+- Issues a Receipt bill when customer decides to return the bike with dynamically calculated  Rental Period.  
 - Display available inventory.
 - Takes requests on hourly, daily and weekly basis by cross verifying Cars.
 
