@@ -40,8 +40,8 @@ This Project has been constructed in keeping the view of all the Pillars of OOPS
 - Exit
 
 ### Platform Used:
-- PyCharm Community Edition 2022.1.2
 - Python 3.10
+- PyCharm Community Edition 2022.1.2
 
 ## Author :
 - Developed By: Abhijit Pradhan 
